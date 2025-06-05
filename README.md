@@ -86,8 +86,8 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
+[<img src="/sert1.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Kalamyrka/Kalamyrka/refs/heads/main/sert1.png)
+[<img src="/sert2.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Kalamyrka/Kalamyrka/refs/heads/main/sert2.png)
 
 <br>
 <br>
